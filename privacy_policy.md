@@ -60,3 +60,6 @@ This app is a personal project and is not intended for commercial purposes. User
 
 This privacy policy may be updated periodically as the app is improved.  
 Users will be informed of any changes to the policy as they occur.
+
+## Contact
+email: oguzhantorunoglu7@gmail.com
